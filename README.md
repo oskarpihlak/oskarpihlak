@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... a lot of things
-- 🌱 I’m currently learning ... archidecture & algorythms in detail
+- 🌱 I’m currently learning ... archidecture & algorithms in detail
 - 💬 Ask me about ... whatever topic you feel like
 - ⚡ Fun fact: ... I'm human
 <details>
